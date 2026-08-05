@@ -1,0 +1,6 @@
+{
+  "name": "测一测你是哪种家具人格？",
+  "description": "北欧家具展览海报风格 H5 互动测试小程序，发现最懂你的生活方式家具人格。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
